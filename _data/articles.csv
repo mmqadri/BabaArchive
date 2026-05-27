@@ -1,0 +1,18 @@
+objectid,parentid,filename,title,creator,date,description,subject,location,type,format
+coll001,,Capture.JPG,Missouri hosts National Guard Bureau's 3rd Annual Diversity Conference,Gary Stevens,2009,https://www.131bw.ang.af.mil/News/Article-Display/Article/443470/missouri-hosts-national-guard-bureaus-3rd-annual-diversity-conference/,Article; National Gaurd,Missouri,Image;StillImage,image/jpeg
+coll002,coll017,signedgift.jpg,From the PEC Staff and Faculty of the National Guard,Professional Education Center,,,Gift; National Gaurd,,Image;StillImage,compound_object
+coll003,coll017,signedgift2.jpg,From the PEC Staff and Faculty of the National Guard,Professional Education Center,,,Gift; National Gaurd,,Image;StillImage,image/jpeg
+coll004,coll016,arkansastraveler.jpg,Arkansas Traveler ,,2011,,Award; National Gaurd,Arkansas,Image;StillImage,compound_object
+coll005,coll016,arkansastravelerletter.jpg,Arkansas Traveler ,,2011,,Award; National Gaurd,Arkansas,Image;StillImage,image/jpeg
+coll006,coll015,freedomring.jpg,Freedom Ring: Certificate of Appreciation,,,,Award; National Gaurd,,Image;StillImage,image/jpeg
+coll007,coll015,thegaurd.jpg,Freedom Ring: Certificate of Appreciation,,,,Award; National Gaurd,,Image;StillImage,image/jpeg
+coll008,,reveille.jpg,Equal Opportunity Leadership Course,,2008,https://d34w7g4gy10iej.cloudfront.net/pubs/pdf_14482.pdf,Article; National Gaurd,Arkansas,Image;StillImage,image/jpeg
+coll009,,homecoming.JPG,Homecoming,Ed Evans,1982,https://d34w7g4gy10iej.cloudfront.net/pubs/pdf_59395.pdf,Article; Marines,Lebanon,Image;StillImage,image/jpeg
+coll010,,motorcycles.JPG,"Marines found, bought vintage motorcycles",Mark Stinneford,1984,https://appomattoxcl.archivalweb.com/proxy.php/0000799.pdf?t=pdf&i=1088577,Article; Marines,North Carolina,Image;StillImage,image/jpeg
+coll011,,cid.jpg,Criminal Investigation Division,,,,Medal; Marines,,Image;StillImage,image/jpeg
+coll012,,citizensoldiers.jpg,Citizen Soldiers,,,,Medal; National Guard,,Image;StillImage,image/jpeg
+coll013,,statesafetyoffice.jpg,State Safety Office,,,,Medal; National Guard,,Image;StillImage,image/jpeg
+coll014,,texasmilitaryforces.jpg,Texas Military Forces,,,,Medal; National Guard,,Image;StillImage,image/jpeg
+coll015,,freedomring.jpg,Freedom Ring: Certificate of Appreciation,,,,Award; National Gaurd,,Image;StillImage,compound_object
+coll016,,arkansastraveler.jpg,Arkansas Traveler ,,2011,,Award; National Gaurd,Arkansas,Image;StillImage,compound_object
+coll017,,signedgift.jpg,From the PEC Staff and Faculty of the National Guard,Professional Education Center,,,Gift; National Gaurd,,Image;StillImage,compound_object
